@@ -1,4 +1,4 @@
-# JavaScript | React.js | Node.js | Three.js | Python | Blockchain | Specialist
+# JavaScript | React.js | Node.js | Three.js | Python | Specialist
 
 
 
